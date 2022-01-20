@@ -1,4 +1,4 @@
-<b>String Calculator TDD Kata</b> <br/>
+<b>String Calculator TDD Kata</b> <br/><br/>
 Create a simple String calculator with a method signature:
 
 int Add(string numbers)
