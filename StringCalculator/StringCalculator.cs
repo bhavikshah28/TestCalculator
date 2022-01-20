@@ -4,7 +4,7 @@ using System.Linq;
 
 namespace StringCalculator
 {
-    public class Calculator
+    public class StringCalculator
     {
         #region Constants
         private const int DEF_NUMBER = 0;
