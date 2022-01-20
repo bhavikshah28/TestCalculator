@@ -25,4 +25,9 @@ Calling Add with a negative number will throw an exception "negatives not allowe
 
 If there are multiple negatives, show all of them in the exception message.
 
+![Test_AddNewLine](https://user-images.githubusercontent.com/52338464/150368809-d8ee0b99-9ad6-4033-b58b-8cb2588de043.png)
 
+![Test_AddSIngleNumber](https://user-images.githubusercontent.com/52338464/150368833-ecb906d5-5f4f-44f0-9faa-877aaf39c850.png)
+![Test_SumOfTwoNumbers](https://user-images.githubusercontent.com/52338464/150368851-ef0194a4-db96-4070-9498-9350c1ecf570.png)
+![Test_FailDelimiters](https://user-images.githubusercontent.com/52338464/150368869-5768fe2b-f2e0-49be-ba15-a388f196bb2e.png)
+![Test_EmptyString](https://user-images.githubusercontent.com/52338464/150368936-2d67716c-b3cf-47ee-b713-55fe9185713d.png)
